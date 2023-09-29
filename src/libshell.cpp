@@ -6,7 +6,7 @@
 
 
 //Custom libraries
-#include "../include/shellfunctionsposix.hpp"
+#include "../include/libshell.hpp"
 using namespace Functions;
 
 void ShellFunctions::createFolders(const std::vector<std::string>& folders) {
